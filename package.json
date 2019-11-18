@@ -1,5 +1,5 @@
 {
-    "name": "node-xmlrpc",
+    "name": "rtr-xmlrpc",
     "description": "A pure JavaScript XML-RPC client and server.",
     "keywords": [
         "xml-rpc",
